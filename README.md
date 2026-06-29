@@ -13,7 +13,7 @@ Aspiring Data Analyst transitioning from Web Development to Data Analytics.
 
 ## Career Goal
 
-Data Analyst → BI Analyst → Business Intelligence Engineer
+Web Developer → Data Analyst → BI Analyst → Business Intelligence Engineer
 
 ## Tools
 
