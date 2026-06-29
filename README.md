@@ -21,4 +21,4 @@ SQL | Excel | Power BI | Python | Git
 
 ## Connect With Me
 
-LinkedIn: <link>
+LinkedIn: <https://www.linkedin.com/in/jashwanth-sai-togata-sankarapu?utm_source=share_via&utm_content=profile&utm_medium=member_android>
