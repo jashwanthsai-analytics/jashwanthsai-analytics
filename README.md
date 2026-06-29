@@ -21,4 +21,7 @@ SQL | Excel | Power BI | Python | Git
 
 ## Connect With Me
 
-LinkedIn: <https://www.linkedin.com/in/jashwanth-sai-togata-sankarapu?utm_source=share_via&utm_content=profile&utm_medium=member_android>
+* LinkedIn: https://www.linkedin.com/in/jashwanth-sai-togata-sankarapu
+* Email: [ursjashwanthsai@gmail.com](mailto:ursjashwanthsai@gmail.com)
+* Location: Bangalore, Karnataka, India
+
